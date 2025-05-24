@@ -1,6 +1,7 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ ![StandingOvationGIF](https://github.com/user-attachments/assets/0765db4a-ebe1-4f33-8cfb-5879391cca3a)
+ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
