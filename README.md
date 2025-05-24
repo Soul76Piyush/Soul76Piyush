@@ -42,9 +42,9 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ 𝓉𝒽𝒶𝓃𝓀𝓈   𝒻ℴ𝓇  𝓋𝒾𝓈𝒾𝓉𝒾𝓃ℊ ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://giffiles.alphacoders.com/221/221577.gif">
 </div>
 <hr>
 </div>
