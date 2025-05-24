@@ -28,7 +28,7 @@
   ### 🌐 Let's Connect:<br>- 
 📫 Email: [piyushkumarroy59@gmail.com]<br>- 🔗 LinkedIn: [https://www.linkedin.com/in/piyush-kumar-roy-405671278/]<br>---<br>
 
-<img src="https://giffiles.alphacoders.com/221/221192.gif" align="right" width="300.5px" height="138.5px"><br
+<img src="https://giffiles.alphacoders.com/221/221192.gif" align="right" width="200.5px" height="100.5px"><br>
 
 
 # 💻 Tech Stack:
