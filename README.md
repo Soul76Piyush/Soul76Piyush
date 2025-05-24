@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <h1 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h1>
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/220/220765.gif" align="right" width="373.5px" height="208.5px">
