@@ -24,7 +24,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Piyush <br><br>🎓 I'm a B.Tech student in Computer Science & Engineering with a specialization in Artificial Intelligence.  <br>💡 Passionate about solving real-world problems using **Data Science**, **Machine Learning**, and **AI**.  <br>📊 I love building intelligent systems that turn raw data into actionable insights.<br><br>### 👨‍💻 Tech Stack & Interests:<br>- 🔎 Machine Learning | Deep Learning | NLP | Computer Vision<br>- 🧠 Data Science | Exploratory Data Analysis | Predictive Modeling<br>- 🧰 Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras<br>- 📊 Visualization: Matplotlib | Seaborn | Power BI (Exploring)<br><br>### 🚀 Current Goals:<br>- Contributing to real-world AI/ML projects<br>- Mastering TensorFlow and Deep Learning<br>- Cracking high-impact ML/AI internships and roles<br><br>### 🌐 Let's Connect:<br>- 📫 Email: [piyushkumarroy59@gmail.com]<br>- 🔗 LinkedIn: [https://www.linkedin.com/in/piyush-kumar-roy-405671278/]<br>---<br><br>⭐️ *"I believe in building tech that thinks, learns, and grows — just like we do."*<br>
 
-
+<img src="https://giffiles.alphacoders.com/220/220765.gif" align="right" width="373.5px" height="208.5px">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piyush kumar Roy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushkumarroy59@gmail.com) 
 
