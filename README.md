@@ -36,7 +36,10 @@
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>   <div align="center"> <img src="https://giffiles.alphacoders.com/220/220069.gif" align="right" width="300.5px" height="130.5px">  
 </div>
-<li> ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piyush kumar Roy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushkumarroy59@gmail.com) 
+<li> # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Soul76Piyush&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Soul76Piyush&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul76Piyush&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓉𝒽𝒶𝓃𝓀𝓈   𝒻ℴ𝓇  𝓋𝒾𝓈𝒾𝓉𝒾𝓃ℊ ~ 💖</h2>
