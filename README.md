@@ -15,7 +15,6 @@
   <img src="https://giffiles.alphacoders.com/220/220765.gif" align="right" width="373.5px" height="208.5px">
 </div>
 
-**💫 About Me:**
 👋 Hi, I'm Piyush 
 
 🎓 I'm a B.Tech student in Computer Science & Engineering with a specialization in Artificial Intelligence.  
