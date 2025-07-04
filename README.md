@@ -34,7 +34,7 @@
 
 ⭐️ *"I believe in building tech that thinks, learns, and grows — just like we do."*
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/219/219343.gif" width="248.5px" height="160.5px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RyM3Bmb2tpOTEwNWxiY25na3N4bjJuODZ2ZW5lNTIwZDh4MzAxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="248.5px" height="160.5px">
 </div>
 
 ### 🌐 Let's Connect:
