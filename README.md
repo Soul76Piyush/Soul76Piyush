@@ -67,7 +67,7 @@
 <h2 align="center">💖 ~ 𝓉𝒽𝒶𝓃𝓀𝓈   𝒻ℴ𝓇  𝓇ℯ𝒶𝒹𝒾𝓃ℊ 𝓉𝒾𝓁𝓁 𝓃ℴ𝓌 ~ 💖</h2>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/221/221577.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU2dDgxc2xrZDkzMnZ1M2c2bXNoN3BsYzAzcHh5YW9zdGQ3ZHAzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 </div>
 
 ---
