@@ -55,7 +55,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soul76Piyush&theme=gruvbox_light&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soul76Piyush&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rbDM1YW02aXFidzZsNWdqZHU5aGd5bjNjOW0zMGQwejR3NXl3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFGBovr5CtfWt7MtqK/giphy.gif" width="300.5px" height="160.5px">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rbDM1YW02aXFidzZsNWdqZHU5aGd5bjNjOW0zMGQwejR3NXl3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFGBovr5CtfWt7MtqK/giphy.gif" width="300.5px" height="100.5px">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soul76Piyush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
