@@ -12,7 +12,7 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220765.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYwM2NzYnBpZXhtdWk0c2RlaTkyaXA3d25qdWNzcXRsNTM0ZXlucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" align="right" width="373.5px" height="208.5px">
 </div>
 
 👋 Hi, I'm Piyush 
